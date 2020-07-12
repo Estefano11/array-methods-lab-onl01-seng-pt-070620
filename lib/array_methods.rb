@@ -23,6 +23,8 @@ def using_first(array)
 end
 
 def using_last(array)
+famous_cats = ["lil bub", "grumpy cat", "maru"]
+  array.last
 
 end
 
