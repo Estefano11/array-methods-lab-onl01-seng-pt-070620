@@ -17,6 +17,8 @@ def using_reverse(array)
 end
 
 def using_first(array)
+  famous_cats = ["lil bub", "grumpy cat", "maru"]
+  
 
 end
 
