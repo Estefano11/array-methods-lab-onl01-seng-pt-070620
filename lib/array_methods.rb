@@ -30,7 +30,7 @@ end
 
 def using_size(array)
   famous_cats = ["lil bub", "grumpy cat", "maru"]
-  array.using_size
+  array.size
 
 end
 
