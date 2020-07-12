@@ -10,7 +10,7 @@ def using_sort(array)
 end
 
 def using_reverse(array)
-  famous_cats = {"lil bub", "grumpy cat","maru"}
+  famous_cats = ["lil bub", "grumpy cat","maru"]
   array.reverse
   
 
