@@ -29,5 +29,9 @@ famous_cats = ["lil bub", "grumpy cat", "maru"]
 end
 
 def using_size(array)
+  famous_cats = ["lil bub", "grumpy cat", "maru"]
+  array.using_size
+
+end
 
 end
